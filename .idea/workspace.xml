@@ -2,182 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63c4091b-1265-49f0-932e-3968eb179115" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Isabelle.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/css/_DS_Store" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/css/normalize.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/fonts/_DS_Store" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/img/Screenshot_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/img/fabicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/js/_DS_Store" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/js/custom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/js/jquery-1.11.0.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/js/jquery.nav.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/syntax-highlighter/_DS_Store" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/syntax-highlighter/scripts/shAutoloader.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/syntax-highlighter/scripts/shBrushAS3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/syntax-highlighter/scripts/shBrushAppleScript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/syntax-highlighter/scripts/shBrushBash.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/syntax-highlighter/scripts/shBrushCSharp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/syntax-highlighter/scripts/shBrushColdFusion.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/syntax-highlighter/scripts/shBrushCpp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/syntax-highlighter/scripts/shBrushCss.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/syntax-highlighter/scripts/shBrushDelphi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/syntax-highlighter/scripts/shBrushDiff.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/syntax-highlighter/scripts/shBrushErlang.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/syntax-highlighter/scripts/shBrushGroovy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/syntax-highlighter/scripts/shBrushJScript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/syntax-highlighter/scripts/shBrushJava.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/syntax-highlighter/scripts/shBrushJavaFX.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/syntax-highlighter/scripts/shBrushPerl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/syntax-highlighter/scripts/shBrushPhp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/syntax-highlighter/scripts/shBrushPlain.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/syntax-highlighter/scripts/shBrushPowerShell.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/syntax-highlighter/scripts/shBrushPython.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/syntax-highlighter/scripts/shBrushRuby.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/syntax-highlighter/scripts/shBrushSass.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/syntax-highlighter/scripts/shBrushScala.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/syntax-highlighter/scripts/shBrushSql.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/syntax-highlighter/scripts/shBrushVb.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/syntax-highlighter/scripts/shBrushXml.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/syntax-highlighter/scripts/shCore.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/syntax-highlighter/scripts/shLegacy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/syntax-highlighter/styles/shCore.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/syntax-highlighter/styles/shCoreDefault.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/syntax-highlighter/styles/shCoreDjango.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/syntax-highlighter/styles/shCoreEclipse.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/syntax-highlighter/styles/shCoreEmacs.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/syntax-highlighter/styles/shCoreFadeToGrey.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/syntax-highlighter/styles/shCoreMDUltra.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/syntax-highlighter/styles/shCoreMidnight.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/syntax-highlighter/styles/shCoreRDark.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/syntax-highlighter/styles/shThemeDefault.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/syntax-highlighter/styles/shThemeDjango.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/syntax-highlighter/styles/shThemeEclipse.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/syntax-highlighter/styles/shThemeEmacs.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/syntax-highlighter/styles/shThemeFadeToGrey.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/syntax-highlighter/styles/shThemeMDUltra.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/syntax-highlighter/styles/shThemeMidnight.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/documentation/syntax-highlighter/styles/shThemeRDark.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/contact_process.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/css/responsive.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/css/style.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/image/Logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/image/about_img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/image/author_img1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/image/author_img2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/image/author_img3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/image/fabicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/image/isa.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/image/location.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/image/new-home/about.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/image/new-home/dot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/image/new-home/five.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/image/new-home/four.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/image/new-home/one.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/image/new-home/portfolio.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/image/new-home/shape.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/image/new-home/shape2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/image/new-home/three.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/image/new-home/two.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/image/new-home3/Logox.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/image/new-home3/slider-bg1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/image/new-home3/slider-bg2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/image/personal-img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/image/portfolio-img1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/image/portfolio-img2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/image/portfolio-img3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/image/portfolio-img4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/image/portfolio-img5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/image/portfolio-img6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/image/post1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/image/post2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/image/post3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/image/service-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/image/slider/LogoIB.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/image/slider/banner_img.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/image/slider/isa.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/image/slider/slider1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/image/slider/volleslogo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/index-2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/js/apear.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/js/contact.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/js/custom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/js/gmaps.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/js/jquery-3.2.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/js/jquery.form.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/js/jquery.nicescroll.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/js/jquery.validate.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/js/mordinizer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/js/popper.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/js/transation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/mainpage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/scss/_about.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/scss/_banner.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/scss/_blog.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/scss/_contact.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/scss/_header.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/scss/_portfolio.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/scss/_predefine.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/scss/_service.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/scss/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/scss/style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/slideshow.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/vendors/animate-css/animate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/vendors/animate-css/wow.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/vendors/elagent-icon/fonts/ElegantIcons.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/vendors/elagent-icon/fonts/ElegantIcons.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/vendors/elagent-icon/fonts/ElegantIcons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/vendors/elagent-icon/fonts/ElegantIcons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/vendors/elagent-icon/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/vendors/imagesloaded/._imagesloaded.pkgd.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/vendors/imagesloaded/imagesloaded.pkgd.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/vendors/isotope/._isotope-min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/vendors/isotope/isotope-min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/vendors/owl-carousel/assets/ajax-loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/vendors/owl-carousel/assets/owl.carousel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/vendors/owl-carousel/assets/owl.carousel.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/vendors/owl-carousel/owl.carousel.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/vendors/slick/ajax-loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/vendors/slick/fonts/slick.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/vendors/slick/fonts/slick.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/vendors/slick/fonts/slick.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/vendors/slick/fonts/slick.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/vendors/slick/slick-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/vendors/slick/slick.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/vendors/slick/slick.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/vendors/video-player/css/font/ytp-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/vendors/video-player/css/font/ytp-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/vendors/video-player/css/font/ytp-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/vendors/video-player/css/images/raster.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/vendors/video-player/css/images/raster@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/vendors/video-player/css/images/raster_dot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/vendors/video-player/css/images/raster_dot@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/vendors/video-player/css/jquery.mb.YTPlayer.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/vendors/video-player/jquery.mb.YTPlayer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/video.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -236,7 +62,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/mainpage.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
+            <state relative-caret-position="17">
               <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
             </state>
           </provider>
@@ -291,11 +117,11 @@
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="880" />
-    <option name="y" value="142" />
-    <option name="width" value="916" />
-    <option name="height" value="879" />
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="67" />
+    <option name="y" value="25" />
+    <option name="width" value="927" />
+    <option name="height" value="1175" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -448,18 +274,17 @@
       <workItem from="1541667654022" duration="5693000" />
       <workItem from="1543003708619" duration="990000" />
       <workItem from="1544102213922" duration="672000" />
-      <workItem from="1544103427896" duration="1591000" />
+      <workItem from="1544103427896" duration="2484000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12627000" />
+    <option name="totallyTimeSpent" value="13520000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1853" height="1175" extended-state="6" />
-    <editor active="true" />
+    <frame x="67" y="25" width="927" height="1175" extended-state="4" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17210847" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35300794" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -471,7 +296,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.18181819" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.27272728" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -516,7 +341,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themeforest-22566842-xman-vcard-resume-cv-portfolio-template/xman-placeholder/mainpage.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
+        <state relative-caret-position="17">
           <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
         </state>
       </provider>
