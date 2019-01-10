@@ -695,7 +695,7 @@ button:focus {
 }
 
 .home_area .personal_img.img_two {
-  background: url("../image/isa.jpg") no-repeat scroll;
+  background: url("../image/slider/Isamainpic.png") no-repeat scroll;
   position: fixed;
   overflow: hidden;
   top: 0;
@@ -1330,7 +1330,7 @@ button:focus {
   width: calc(50% - 205px);
   background-size: cover;
   background-position: center 0;
-  background: url("../image/about_img.png") no-repeat scroll;
+  background: url("../image/slider/lampe.png") no-repeat scroll;
 }
 
 .about_right.about_right_two {
@@ -1490,7 +1490,7 @@ button:focus {
 /*----------------------------------------------------*/
 /*===============service_area css ============*/
 .service_area {
-  background: url("../image/service-bg.jpg") no-repeat scroll center 0/cover;
+  background: url("../image/slider/computer2.png") no-repeat scroll center 0/cover;
 }
 
 .service_info {
