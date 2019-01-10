@@ -1,6 +1,6 @@
 <?php
 
-    $to = "rockybd1995@gmail.com";
+    $to = "isabelle-bille@posteo.de";
     $from = $_REQUEST['email'];
     $name = $_REQUEST['name'];
     $last = $_REQUEST['last'];
@@ -15,7 +15,7 @@
 	$headers .= "MIME-Version: 1.0\r\n";
 	$headers .= "Content-Type: text/html; charset=ISO-8859-1\r\n";
 
-    $subject = "You have a message from your Express.";
+    $subject = "Kontaktanfrage auf isabelle-bille.de.";
 
     $logo = 'http://wethemez.com/demo/express/img/logo.png';
     $link = '#';
