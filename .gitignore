@@ -12,6 +12,10 @@
 .idea/**/dbnavigator.xml
 .idea/**/gradle.xml
 .idea/**/libraries
+.idea/**/httpRequests
+.idea/**/deployment.xml
+.idea/**/webServers.xml
+.idea/**/vcs.xml
 cmake-build-debug/
 cmake-build-release/
 .idea/**/mongoSettings.xml
@@ -24,6 +28,3 @@ com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
 fabric.properties
-.idea/httpRequests
-.idea/deployment.xml
-.idea/webServers.xml
